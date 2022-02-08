@@ -1,0 +1,1 @@
+export { default } from 'private-addon-doc-test/components/sample-component';
