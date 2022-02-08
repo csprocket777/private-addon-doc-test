@@ -5,7 +5,7 @@
   "keywords": [
     "ember-addon"
   ],
-  "repository": "git@github.com:csprocket777/private-addon-doc-test.git",
+  "repository": "https://gthub.com/csprocket777/private-addon-doc-test",
   "license": "MIT",
   "author": "",
   "directories": {
@@ -107,7 +107,8 @@
     "edition": "octane"
   },
   "ember-addon": {
-    "configPath": "tests/dummy/config"
+    "configPath": "tests/dummy/config",
+    "demoURL": "https://csprocket777.github.io/private-addon-doc-test"
   },
   "homepage": "https://csprocket777.github.io/private-addon-doc-test"
 }
